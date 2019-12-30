@@ -4,13 +4,6 @@
 ## A simple way to install apps on Linux.
 Flatpak allows Linux user to install applications across multiball distributions.
 
-<p align="left">
-    <a href="https://www.exodus.io/">
-        <img src="https://raw.githubusercontent.com/flathub/io.exodus.Exodus/master/io.exodus.Exodus-128x128.png">
-    </a>
-    <a href='https://flathub.org/apps/details/io.exodus.Exodus'><img width='375' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
-</p>
-
 ## Installation
 
 Installation from Flathub
