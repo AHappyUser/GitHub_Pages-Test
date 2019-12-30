@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Dash to Dock
+![screenshot](https://github.com/micheleg/dash-to-dock/raw/master/media/screenshot.jpg)
 
-You can use the [editor on GitHub](https://github.com/AHappyUser/GitHub_Pages-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## A dock for the GNOME Shell
+This extension enhances the dash moving it out of the overview and transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops without having to leave the desktop view.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[<img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">](https://extensions.gnome.org/extension/307/dash-to-dock)
 
-### Markdown
+For additional installation instructions and more information visit [https://micheleg.github.io/dash-to-dock/](https://micheleg.github.io/dash-to-dock/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation from source
 
-```markdown
-Syntax highlighted code block
+The extension can be installed directly from source, either for the convenience of using git or to test the latest development version. Clone the desired branch with git
 
-# Header 1
-## Header 2
-### Header 3
+<pre>git clone https://github.com/micheleg/dash-to-dock.git</pre>
+or download the branch from github. A simple Makefile is included. Then run
+<pre>make
+make install
+</pre>
+to install the extension in your home directory. A Shell reload is required <code>Alt+F2 r Enter</code> and the extension has to be enabled  with *gnome-tweak-tool* or with *dconf*.
 
-- Bulleted
-- List
+## Bug Reporting
 
-1. Numbered
-2. List
+Bugs should be reported to the Github bug tracker [https://github.com/micheleg/dash-to-dock/issues](https://github.com/micheleg/dash-to-dock/issues).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AHappyUser/GitHub_Pages-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+Dash to Dock Gnome Shell extension is distributed under the terms of the GNU General Public License,
+version 2 or later. See the COPYING file for details.
