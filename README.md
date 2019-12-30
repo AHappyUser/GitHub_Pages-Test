@@ -1,4 +1,4 @@
-## Exodus Wallet on Flathub
+## [Exodus Wallet on Flathub](https://micheleg.github.io/dash-to-dock/)
 [<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >](https://flathub.org/apps/details/io.exodus.Exodus)
 
 ## A simple way to install apps on Linux.
