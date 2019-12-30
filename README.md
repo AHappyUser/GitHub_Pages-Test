@@ -1,10 +1,11 @@
 ## Exodus Wallet on Flathub
-[<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >]
+<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >
 
-[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" height="100">](https://flathub.org/apps/details/io.exodus.Exodus)
 
 ## A simple way to install apps on Linux.
 Flatpak allows Linux user to install applications across multiball distributions.
+
+[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" height="100">](https://flathub.org/apps/details/io.exodus.Exodus)
 
 **Make sure to install Flatpak and Flathub repository [https://flatpak.org/setup/](https://flatpak.org/setup/).**
 
