@@ -9,12 +9,11 @@ Flatpak allows Linux user to install applications across multiball distributions
         <img src="https://raw.githubusercontent.com/flathub/io.exodus.Exodus/master/io.exodus.Exodus-128x128.png">
     </a>
     <a href='https://flathub.org/apps/details/io.exodus.Exodus'><img width='375' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
-<p
-
+</p>
 
 ## Installation
 
-**Make sure to install Flatpak and Flathub repository [https://flatpak.org/setup/](https://flatpak.org/setup/).**
+**Make sure to install Flatpak and Flathub repository (https://flatpak.org/setup/).**
 
 Installation from Flathub
 <pre>flatpak install flathub io.exodus.Exodus</pre>
