@@ -1,5 +1,5 @@
 ## Exodus Wallet on Flathub
-<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >
+[<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >](https://www.exodus.io/)
 
 
 ## A simple way to install apps on Linux.
