@@ -10,6 +10,7 @@ This extension enhances the dash moving it out of the overview and transforming 
     </a>
     <a href='https://flathub.org/apps/details/io.exodus.Exodus'><img width='375' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
 </p>
+    
 ## Installation
 
 **Make sure to install Flatpak and Flathub repository. [https://flatpak.org/setup/](https://flatpak.org/setup/)**
