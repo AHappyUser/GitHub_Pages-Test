@@ -1,5 +1,7 @@
-## [Exodus Wallet on Flathub](https://flathub.org/apps/details/io.exodus.Exodus)
-[<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >](https://flathub.org/apps/details/io.exodus.Exodus)
+## Exodus Wallet on Flathub
+[<img src="https://www.exodus.io/desktop/img/portfolio-lsize.png" >]
+
+[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" height="100">](https://flathub.org/apps/details/io.exodus.Exodus)
 
 ## A simple way to install apps on Linux.
 Flatpak allows Linux user to install applications across multiball distributions.
