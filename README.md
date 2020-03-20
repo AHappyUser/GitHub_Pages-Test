@@ -16,7 +16,7 @@ Installation from Flathub
 <pre>flatpak install flathub io.exodus.Exodus</pre>
 
 Run the Flatpak
-<pre>flatpak run flathub io.exodus.Exodus</pre>
+<pre>flatpak run io.exodus.Exodus</pre>
 
 
 ## Bug Reporting
